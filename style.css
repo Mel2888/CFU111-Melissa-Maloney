@@ -1,4 +1,18 @@
 body[]
 
-background-color: yellow;
+background-image: url{../github/doggy.jpg}
 font-family: Helvetica, Calibri 
+
+
+/* this is comemnt*/
+
+Section{ 
+
+    border-width: 1px;
+    border-color: black;
+  border-style: solid;
+  margin-bottom: 50px;
+  padding: 20px
+} 
+    .intro{ background-color: pink}
+    .content{background-color: blue}
