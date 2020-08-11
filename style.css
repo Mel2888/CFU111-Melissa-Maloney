@@ -7,7 +7,7 @@
 body {
   background-image:url("../images/snow-mountain.jpg");
 
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
 }
 
 
@@ -25,7 +25,7 @@ header {
 }
 
 .header-text {
-  color: purple;
+  color: blue 
   font-size: 50px;
   text-align: center;
   font-weight: bold;
