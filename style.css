@@ -7,7 +7,7 @@
 body {
   background-image:url("portfolios/DSC_0673.JPG");
 
-  font-family:Calibri, 'Trebuchet MS', Helvetica, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: 'Trebuchet MS', Helvetica, 'Segoe UI', Tahoma, Verdana, sans-serif
 }
 img {max-width: 60%;}
 
@@ -21,22 +21,21 @@ video {
 /* header  */
 
 header {
-  background-color: white;
+  background-color: pink;
   padding: 100px;
 }
 
 .header-text {
-  color: blue 
-  font-size: 100px;
+  color: blue;
+  font-size: 100px; 
   text-align: center;
   font-weight: bold;
-
-  font-family: 'Caveat', cursive;
+  font-family: 'san-serif', 'italics'
 
 }
 
 .header-sub-text {
-  color: red;
+  color:purple;
   font-size: 50px;
   text-align: center;
 }
@@ -60,13 +59,13 @@ section {
 @media screen and (min-width: 800px) {
 
   .intro {
-      background-color: yellow;
+      background-color: lightgrey;
   }
       
 }
 
 .content {
-  background-color: #b38c8c;
+  background-color: yellow;
 }
 
 .final {
