@@ -5,15 +5,16 @@
 
 /*  defaults  */
 body {
-  background-image:url("../images/snow-mountain.jpg");
+  background-image:url("portfolios/DSC_0673.JPG");
 
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+  font-family:Calibri, 'Trebuchet MS', Helvetica, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+img {max-width: 60%;}
 
 
 img,
 video {
-  max-width: 100%;
+  max-width: 20%;
 }
 
 
@@ -21,12 +22,12 @@ video {
 
 header {
   background-color: white;
-  padding: 50px;
+  padding: 100px;
 }
 
 .header-text {
   color: blue 
-  font-size: 50px;
+  font-size: 100px;
   text-align: center;
   font-weight: bold;
 
@@ -36,7 +37,7 @@ header {
 
 .header-sub-text {
   color: red;
-  font-size: 20px;
+  font-size: 50px;
   text-align: center;
 }
 
