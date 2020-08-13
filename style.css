@@ -9,12 +9,22 @@ body {
 
   font-family: 'Trebuchet MS', Helvetica, 'Segoe UI', Tahoma, Verdana, sans-serif
 }
-img {max-width: 60%;}
+img {max-width: 60%;
+;}
 
+h1 {color: purple;
+font size:80px;
+font-family: verdana, cursive;
+font-weight: Italic;  }
+
+h2 {color: rosybrown;
+font size: 40px;
+font-family: Tahoma;}
 
 img,
 video {
-  max-width: 20%;
+  max-width: 40%;
+ align-content: center;
 }
 
 
@@ -69,7 +79,10 @@ section {
 }
 
 .final {
-  background-color: RGBA(205, 92, 92, 0.7)
+  background-color: pink
 }
+h4{color: Black;
+Font-size:40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 /* forms */
